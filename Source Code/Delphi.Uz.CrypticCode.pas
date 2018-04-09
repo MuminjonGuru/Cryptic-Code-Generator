@@ -77,9 +77,7 @@ begin
     I := Ord(C) + 5;  // Get the ASCII code and add 5 (five)
     if I > 122 then I := I-122+96;  // In ASCII 'a' equals to 96 and 'z' equals to 122.
     // if the last letter prints, calculation runs from beginning of the alphabet and shows E result
-
     A[C] := Chr(I);  // Kodga mod qiymatni olish. A[C] da F harfidan boshlangan antiqa akfavit xosil bo'ladi.
-
     // WriteLn(C, '', A[C]); -->  For Checking results
   end;
 
@@ -141,5 +139,4 @@ procedure TMainForm.ShapeMinimizedMouseDown(Sender: TObject;
 begin
   Application.MainForm.WindowState := wsMinimized;
 end;
-
 end.
