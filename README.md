@@ -1,29 +1,19 @@
-# Cryptic-Code-Generator
 
-#How to make Cryptic Code Generator Application in Delphi ?
+### Cryptic Code Generator by Delphi.Uz
 
-#Cryptic Code Generator by Delphi.Uz
+![enter image description here](https://i0.wp.com/delphi.uz/wp-content/uploads/2017/03/delphi.uz-cryptic-code-generator.jpg?w=460&ssl=1)
 
-#Open Source Delphi Applications by Delphi.Uz
+## Click the star button and follow me!
 
-Hello and Welcome to my Delphi programming blog! (GitHub repository !  ) 
+Learn more! [Delphi.Uz](https://delphi.uz/2017/03/10/delphi-programming-language/make-cryptic-code-generator-application-delphi/)
 
-Today, I'll show you something interesting. That is a Free and Open Source project. 
+I'm on social networks:
 
-Cryptic Code Generator Application generates cryptic codes using your typed text.
+-   [FaceBook](https://www.facebook.com/wwwdelphiuz/)
+-   [Twitter](https://twitter.com/MuminjonGuru)
+-   [LinkedIn](https://www.linkedin.com/in/muminjon-abduraimov/)
+-   [YouTube](https://youtube.com/MuminjonAbduraimov)
 
-It's so simple algorithm. You can easily read and understand this awesome application!  ;)
+My Android app which is built with Delphi FireMonkey
 
-Download 32x Application from this web-server : https://delphi.uz/wp-content/uploads/2017/03/Delphi_Uz_CrypticCode.zip
-
-
-
-Please, Follow me!
-
-Please, help me to promote my web-site !  
-
-https://delphi.uz
-https://www.facebook.com/wwwdelphiuz/
-https://twitter.com/MrDelphiGuru
-https://www.youtube.com/channel/UCslWJj36tVhTtIjveeoDPtg/videos
-https://plus.google.com/117439345479478485917
+-   [Google Play Store](https://play.google.com/store/apps/details?id=com.delphiapplications.delphiexamples)
